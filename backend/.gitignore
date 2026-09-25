@@ -39,6 +39,7 @@ application-*.properties
 uploads/
 *.env
 .env
+storage/
 
 ### Frontend (if in same repo) ###
 node_modules/
